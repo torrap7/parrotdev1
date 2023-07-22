@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @parrotdev1
-- 👀 I’m interested in discord bot stuff
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m @torrap7
+- 👀 I’m interested in full stack web develpoing
+- 🌱 I’m currently learning html, js, css, php
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: discord @ Parrot#4388
+- 📫 How to reach me: discord @ realthegreatmightypoonocap______
 
 <!---
 parrotdev1/parrotdev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
